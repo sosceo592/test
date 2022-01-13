@@ -4,7 +4,8 @@
         {
             "type": "Feature",
             "properties": {
-                "gid": 4388
+                "gid": 4388,
+                "name": "香港"
             },
             "geometry": {
                 "type": "MultiPolygon",
@@ -28113,7 +28114,8 @@
         {
             "type": "Feature",
             "properties": {
-                "gid": 8082
+                "gid": 8082,
+                "name": "澳门"
             },
             "geometry": {
                 "type": "MultiPolygon",
